@@ -50,6 +50,7 @@
             }
         ],
         "import/prefer-default-export": "off",
+        "camelcase": "off",
         "prettier/prettier": "error"
     },
     "settings": {
