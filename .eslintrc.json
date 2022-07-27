@@ -52,6 +52,7 @@
         "import/prefer-default-export": "off",
         "camelcase": "off",
         "react/jsx-props-no-spreading": "off",
+        "react/jsx-no-bind": "off",
         "prettier/prettier": "error"
     },
     "settings": {
